@@ -1,3 +1,4 @@
 # deqing.pub
-Deqing Wang's Publications 
+Deqing Wang's Publications
+
 http://deqing.pub/
